@@ -85,7 +85,7 @@ logo=("""
 \033[0;33m────────────────────────────────────────────────── 
 """)
 
-
+os.system('xdg-open https://facebook.com/groups/tricka4ifdefence//')
 
 A = '\x1b[1;97m' 
 B = '\x1b[1;96m' 
