@@ -11,3 +11,6 @@ paid -05june- Liton - 200 tk
 
 paid -30may- snigdo - 100 tk
 14h04h24h04h64hu4h04h_4ha4h24h04h6
+
+paid -1 june - nahad - 50 tk
+14h14h14h74h34hu4h04h_4ha4h14h14h74h3
