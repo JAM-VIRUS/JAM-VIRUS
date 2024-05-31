@@ -13,7 +13,10 @@ paid -30may- snigdo - 100 tk
 EXPIRED
 
 paid -1june- nahad -50 tk
-14h14h14h74h34hu4h04h_4ha4h14h14h74h3
+EXPIRED
 
 paid -5june- moklesur -50tk(1/2pay)
 14h04h44h44h44hu4h04h_4ha4h44h44h4 
+
+Paid -5june- alone lover - 100tk
+14h04h54h84h84hu4h04h_4ha4h54h84h8
